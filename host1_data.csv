@@ -1,0 +1,3 @@
+Hostname;ip;netmask;mac
+HQ;192.168.20.1;24;aa:bb
+BR;172.16.10.1;24;bb:aa
